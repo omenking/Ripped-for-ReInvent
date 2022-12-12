@@ -9,8 +9,6 @@ With men generally starting with these 3 sizes of kettlbell weight:
 Kettlbells can come in this size, and be used incrementally to increase weight:
 - 16,18,20,22,24
 
-
-
 ## Fundamental Rate
 
 - how fast can you do them?
@@ -29,6 +27,11 @@ Kettlbells can come in this size, and be used incrementally to increase weight:
 
 - This table works well for intermediate weights (not above 32kg/70lb for men)
 - Reverse Ladder: gets easier over time (5,4,3,2,1)
+- Generally start with 3-5 reps for strength training
+- Most people have a weak link somewhere in their body
+  - shoring up a weakness is important before attempting advanced kettlebell
+  - backburner excercises in your program can address these
+  - practicing good form with while getting coaching ques.
 
 
 
