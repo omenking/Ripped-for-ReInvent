@@ -27,7 +27,8 @@ Kettlbells can come in this size, and be used incrementally to increase weight:
 
 - This table works well for intermediate weights (not above 32kg/70lb for men)
 - Reverse Ladder: gets easier over time (5,4,3,2,1)
-- Generally start with 3-5 reps for strength training
+- Generally start with 3-5 reps form strength training
+  - common for men to start a 5 reps
 - Most people have a weak link somewhere in their body
   - shoring up a weakness is important before attempting advanced kettlebell
   - backburner excercises in your program can address these
