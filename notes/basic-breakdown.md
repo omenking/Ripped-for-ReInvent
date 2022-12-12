@@ -3,7 +3,7 @@
 - how fast can you do them?
 - how hard are they?
 
-|    |     |     |     |
+| Excerise   | Cycle| Est    | Kind  |
 | ---    | ---                 | ---            | --- |
 | Swing  | Emum                |36 / min (100 swigs 3.5 mins) | Ballistic |
 | TGU    | Volume              | 2-4 / minute   | Grind |
