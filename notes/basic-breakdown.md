@@ -1,9 +1,14 @@
 ## Starting Weights
 
-With men generally starting with 3 sizes of weight:
+With men generally starting with these 3 sizes of kettlbell weight:
 - 16kg (35lb)
 - 20kg (44lb)
 - 24kg (52lb)
+
+## Kettlbell Weights
+Kettlbells can come in this size, and be used incrementally to increase weight:
+- 16,18,20,22,24
+
 
 
 ## Fundamental Rate
