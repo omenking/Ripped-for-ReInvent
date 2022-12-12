@@ -1,3 +1,11 @@
+## Starting Weights
+
+With men generally starting with 3 sizes of weight:
+- 16kg (35lb)
+- 20kg (44lb)
+- 24kg (52lb)
+
+
 ## Fundamental Rate
 
 - how fast can you do them?
@@ -21,5 +29,5 @@
 
 
 ## References
-
+https://www.youtube.com/watch?v=LH5Na78H1pk
 https://www.youtube.com/watch?v=izCJRU2u4ck
