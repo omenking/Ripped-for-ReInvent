@@ -10,7 +10,11 @@
 - Obliques (Side Abs)
 
 # Back Group
-- Trapezius aka. Traps (upperback)
+- [Trapezius aka. Traps (upperback)](https://www.youtube.com/watch?v=eqYNJLbxRkk)
+  - Upper
+  - Middle
+  - Lower
+  - Shurgs
 - Latissimus dorsi aka. Lats (middleback)
 - Thoracolumbar fascia (lowerback)
 - Gluteus Maximus aka Glutes (butt)
